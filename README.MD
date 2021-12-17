@@ -1,1 +1,0 @@
-This repo is for ruby practice
